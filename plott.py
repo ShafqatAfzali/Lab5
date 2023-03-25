@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-sted="./ResonansData"
+sted="./ResonansData.csv"
 
 data=pd.read_excel(sted)
 
